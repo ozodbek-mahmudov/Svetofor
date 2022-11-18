@@ -66,11 +66,11 @@
 #red-btn:hover {
   background-color: #fff;
   color: red;
-  transition: 1s;
-  -webkit-transition: 1s;
-  -moz-transition: 1s;
-  -ms-transition: 1s;
-  -o-transition: 1s;
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
 }
 
 #yellow-btn {
@@ -81,7 +81,7 @@
   background-color: #fff;
   color: yellow;
   transition: 1s;
-  -webkit-transition: 1s;
+  -webkit-transition: 0.5s;
   -moz-transition: 1s;
   -ms-transition: 1s;
   -o-transition: 1s;
@@ -94,11 +94,11 @@
 #green-btn:hover {
   background-color: #fff;
   color: green;
-  transition: 1s;
-  -webkit-transition: 1s;
-  -moz-transition: 1s;
-  -ms-transition: 1s;
-  -o-transition: 1s;
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
 }
 
 .red {
@@ -108,11 +108,11 @@
 #red-btn:hover {
   background-color: #fff;
   color: red;
-  transition: 1s;
-  -webkit-transition: 1s;
-  -moz-transition: 1s;
-  -ms-transition: 1s;
-  -o-transition: 1s;
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
 }
 
 .yellow {
